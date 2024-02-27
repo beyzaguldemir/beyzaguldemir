@@ -1,3 +1,3 @@
 ### Merhaba👋
 
-- 🔭 Html ,Css,Bootstrap teknolojileriyle ilgileniyorum ve projeler geliştirmeye çalışıyorum.
+- 🔭 Html ,Css,Bootstrap teknolojileriyle ilgileniyorum 
